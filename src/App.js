@@ -20,7 +20,7 @@ function App() {
     toAmount = amount * exchangeRate;
   } else {
     toAmount = amount;
-    fromAmount = amount / exchangeRate;
+     fromAmount = amount / exchangeRate;
   }
 
   function handleFromAmountChange(e) {
