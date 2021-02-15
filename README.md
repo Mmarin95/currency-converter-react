@@ -1,6 +1,6 @@
 # currency-converter-react
 
-Currency converter with ReactJS using the API [ExchangeRatesAPI](https://exchangeratesapi.io/).
+Currency converter with ReactJS using the API [ExchangeRatesAPI](https://exchangeratesapi.io/).  
 Run with `npm start`.
 
 ### Tricky things
